@@ -1,0 +1,2 @@
+# GoExe
+record GoLang
